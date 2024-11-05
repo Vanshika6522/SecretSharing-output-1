@@ -1,2 +1,1 @@
-# SecretSharing-output-1
-SecretSharing  output 1
+The constant term c of the polynomial is: 13104
